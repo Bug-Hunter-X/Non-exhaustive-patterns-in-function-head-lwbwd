@@ -1,0 +1,1 @@
+This repository demonstrates a common Haskell error: using `head` on an empty list. The `head` function is defined to work only on non-empty lists, and will raise an error otherwise.  The solution demonstrates using pattern matching to handle empty lists gracefully.
